@@ -1,0 +1,5 @@
+Can one product have multiple suppliers?
+
+Do suppliers deliver directly to warehouses or just to companies?
+
+Do we need to track who changed the inventory?
